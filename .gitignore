@@ -6,3 +6,9 @@
 .firebase
 *-debug.log
 .runtimeconfig.json
+
+.DS_Store
+src/.DS_Store
+
+# Firebase
+.firebaserc
